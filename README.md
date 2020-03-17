@@ -1,1 +1,1 @@
-# Full Stack Review Workshop
+This is a project I completed as a student at hackreactor.
